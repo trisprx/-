@@ -294,7 +294,7 @@ class Slider {
                 // Description
                 const description = document.createElement('p');
                 description.className = 'slide-description';
-                description.textContent = project.description;
+                description.innerHTML = project.description.replace(/\n/g, '<br>');
                 slideRight.appendChild(description);
 
                 slideContent.appendChild(slideRight);
