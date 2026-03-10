@@ -1,0 +1,68 @@
+SUMMARY
+Product-oriented IT Management Professional with 6+ years' experience delivering user-centric digital solutions in public sectors. Technically fluent with LLMs, APIs, automation, AI-driven workflows, and possess up-to-date technology knowledge. I approach challenges from multiple perspectives and bring creative, unique ideas to the table. Passionate about using technology to solve real problems, improve user experiences, and deliver public impact. Always eager to learn and expand my skills, particularly in the technology field.
+
+BACKGROUND
+• Successful Implementation of AI models (Deepseek, Claude) using APIs.
+• Experience in Public Sector with firsthand experience of Pair in daily work.
+• Demonstrated cross-cultural / multilingual AI model Expertise: with Extensive knowledge of AI LLM models not only within English community (eg. Gemini, Claude, ChatGPT) but also within Chinese (eg. Deepseek, Qwen) and Japanese community.
+• Extensive knowledge of AI Image and Video generation Models (eg. Sora, Nano Banana, Jimeng, Offline models)
+• Applied AI models across multiple domains, knowledge and experience of AI model usage not limited to but including: Chatbots, Image generation, Office work, Powerpoint, Data visualization, Design, Coding
+• Trained and Deployed AI Image generation model with more than 30,000 runs on AI model hosting website.
+• Public-sector / civic-tech experience: with experience in public-sector collaboration workflows - giving familiarity with regulatory, stakeholder, and public-value considerations typically relevant to government-tech projects.
+
+EXPERIENCE
+OCTOBER 2021 – PRESENT
+Clinical Informatics Analyst | NHG Health | Singapore
+Principal Analyst and Principal Trainer for NGEMR - Epic Medical Systems Project Modules involved: Lumens, Optime, Anesthesia, Ambulatory (Kaleidoscope), Training
+Involved in design, build, configuration, testing, upgrades, review and maintenance of Epic modules for NHG cluster hospitals
+Supported change management by engaging stakeholders and cross functional teams, system upgrade reviews, maintenance and optimization to meet evolving clinical and operational needs.
+Developed training materials, and delivered training programmes for clinicians, nurses, and allied health professionals.
+Assist in resolving user queries related to system usage, workflows, and error troubleshooting, providing support to clinical and operational staff. (eg. Servicenow tickets)
+
+JANUARY 2021 – SEPTEMBER 2021
+Executive (Apps), IT Mobile Apps Project | National Healthcare Group | Singapore
+Involved in end-to-end RFP (Request for Proposal) process for NHG Healthapps development, including requirements gathering, vendor evaluation, and proposal review.
+Assisted in project management activities, including preparing documentation, and other administrative work Designed and developed prototypes to support solution validation (Figma)
+Coordinated with cross-functional teams and stakeholders to support effective communication and smooth project execution.
+
+JUNE 2020 – PRESENT
+Content Creator
+Developed 2D and 3D-to-2D image mockups for digital clothing prototypes for digital drawing and mockup generation website
+Photographed and edited still item images using Photoshop to create visual assets for mockup use. Drafted clothing patterns in CLO3D and rendered using both CLO3D and Blender (for clothings with more complex scenes and for video recordings)
+Contributed ideas and feedback for website feature improvements, enhancing user experience and platform functionality.
+Curated user social media account (Douyin - chinese video platform) from 0 to 100k peak subscribers within timeframe
+Utilized software including CLO3D (digital clothing pattern software), Blender, Photoshop, Premiere, CapCut for design, rendering, and video content creation
+
+JUNE 2018 – SEPTEMBER 2018
+Operations | Panda Travel | Singapore
+Communicated with customers and vendors in Japanese (B2C), English, and Chinese, both verbally and in writing
+Pursued new partnership opportunities by reaching out to potential vendors
+Managed multiple company booking platforms, ensuring smooth customer experience and accurate reservations
+Managed company's B2C and website queries inbox Maintained and updated company databases timely to support operational needs
+
+JUNE 2017 – SEPTEMBER 2017
+IT Helpdesk | Jardine One Solution | Singapore
+Delivered verbal and email-based technical support to end-users, ensuring KPI was met within resolution and response timings
+Managed ticketing systems, including creation, tracking, and resolution of support tickets.
+Coordinated onsite support activities, including scheduling, escalation, and collaboration with onsite field engineers to resolve user issues, as well as upgrade of existing systems
+Maintained user accounts and database access
+
+CERTIFICATIONS
+• EPIC Healthcare EMR Systems Certification (Radiant (Lumens), Ambulatory (Clinic), Kaleidoscope, Training Environment, Optime (Operating Theatre), Anesthesia)
+• AI Fluency: Framework & Foundations - Anthropic
+• Claude Code in Action - Anthropic
+• Building with the Claude API - Anthropic
+
+SKILLS
+• Management, IT Project Management (-agile, user requirement translations etc.) • Marketing (-new media, video, trend creation etc.) • Human Capital Management • Healthcare IT / Healthtech • Digital Design + Product Design(-mockup, layout, packaging, art, fashion) • Basic Python • understanding of Java and HTML • System Administration • End-user training • Documentation • Knowledge transfer • Analytical Thinking • Problem Solving • Cross functional collaboration • Stakeholder management • Product lifecycle management • Project management & delivery: • Change management • Requirements Gathering • UAT (User Acceptance Testing) • Process Improvement • Workflow and Process Documentation • LLMs (Large Language Models) • AI Image Generation • AI Assisted Coding • UI • UX • AI Chatbots • API • Public Sector • Public Services • Rapid Ideation & Prototyping
+
+EDUCATION
+SEPTEMBER 2019
+The London School of Economics and Political Science (LSE)
+Bachelor's degree, Management and Digital Innovation
+
+SOFTWARE SKILLS
+• Microsoft Office Suite (Excel, PowerPoint, Word) • Adobe Photoshop • Basic Adobe Creative Cloud • Procreate • Visual Studio Code • Marvelous Designer • CLO3D • Blender • Figma • Canva • ComfyUI • Trello • CapCut • SharePoint • MS Project • EPIC Healthcare Systems • Cursor • Antigravity • Google AI Studio • Claude • NotebookLM • Gemini • Qwen • Deepseek • Minimax • Doubao (Bytedance AI) • Jimeng (Bytedance AI ImageGen) • Chatbox • Siliconflow
+
+LANGUAGES
+• English (Native) • Chinese (Native) • Japanese (Fluent, JLPT N1 Certification)

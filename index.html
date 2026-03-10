@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Tri's Portfolio - Product-oriented IT Management Professional specializing in AI, LLMs, and digital innovation">
+    <title>Tri's Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Vertical Navigation Dots -->
+    <nav class="nav-dots">
+        <button class="nav-dot active" data-section="0" aria-label="Go to Main Page"></button>
+        <button class="nav-dot" data-section="1" aria-label="Go to About"></button>
+        <button class="nav-dot" data-section="2" aria-label="Go to Program Skills"></button>
+        <button class="nav-dot" data-section="3" aria-label="Go to Design Samples"></button>
+        <button class="nav-dot" data-section="4" aria-label="Go to Before You Leave"></button>
+    </nav>
+
+    <!-- Section 1: Main Page -->
+    <section id="section-0" class="section main-section">
+        <canvas id="vortex-canvas"></canvas>
+        <div class="main-content">
+            <h1 class="main-title">Tri's Portfolio</h1>
+        </div>
+        <div class="scroll-hint">
+            <span class="scroll-hint-text">Scroll to explore</span>
+            <svg class="scroll-hint-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2">
+                <path d="M12 5v14M19 12l-7 7-7-7" />
+            </svg>
+        </div>
+    </section>
+
+    <!-- Section 2: Tags and Description -->
+    <section id="section-1" class="section about-section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <p class="about-description">
+                    Product-driven IT management professional with 6+ years of experience delivering user-centric
+                    digital
+                    solutions in public sectors. Technically fluent with LLMs, APIs, automation, AI-driven workflows,
+                    and
+                    possess up-to-date technology knowledge. I approach challenges from multiple perspectives and bring
+                    creative, unique ideas to the table. Brings a combination of healthcare delivery experience,
+                    hands-on AI prototyping. Holds a personal interest in psychology and neurology.
+                </p>
+                <div class="tags-container">
+                    <div class="skill-category">
+                        <div class="category-title">Management</div>
+                        <div class="category-skills">
+                            <span class="tag">IT Project Management</span>
+                            <span class="tag">Agile</span>
+                            <span class="tag">Stakeholder Management</span>
+                            <span class="tag">Change Management</span>
+                            <span class="tag">Product Lifecycle</span>
+                        </div>
+                    </div>
+                    <div class="skill-category">
+                        <div class="category-title">Technical</div>
+                        <div class="category-skills">
+                            <span class="tag highlight">AI</span>
+                            <span class="tag highlight">LLMs</span>
+                            <span class="tag highlight">Prompt Engineering</span>
+                            <span class="tag">Claude API</span>
+                            <span class="tag">API integration</span>
+                            <span class="tag">Python</span>
+                            <span class="tag">System Administration</span>
+                        </div>
+                    </div>
+                    <div class="skill-category">
+                        <div class="category-title">Product & UX</div>
+                        <div class="category-skills">
+                            <span class="tag">Requirements Gathering</span>
+                            <span class="tag">UAT</span>
+                            <span class="tag">Rapid Prototyping</span>
+                            <span class="tag">Figma</span>
+                            <span class="tag">UI/UX Design</span>
+                        </div>
+                    </div>
+                    <div class="skill-category">
+                        <div class="category-title">Domain Expertise</div>
+                        <div class="category-skills">
+                            <span class="tag">Healthcare IT</span>
+                            <span class="tag">Epic Systems</span>
+                            <span class="tag">Clinical Informatics</span>
+                            <span class="tag">Public Sector</span>
+                        </div>
+                    </div>
+                    <div class="skill-category">
+                        <div class="category-title">Creative</div>
+                        <div class="category-skills">
+                            <span class="tag">AI Image Generation</span>
+                            <span class="tag">Blender</span>
+                            <span class="tag">CLO3D</span>
+                            <span class="tag">Adobe Creative Suite</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 3: Healthcare Projects -->
+    <section id="section-2" class="section showcase-section">
+        <div class="container">
+            <h2 class="section-title">Healthcare Projects</h2>
+            <div class="slider-container">
+                <div class="slider-content" id="prog-slider">
+                    <!-- Project slides will be inserted here by JavaScript -->
+                </div>
+            </div>
+            <div class="slider-indicators" id="prog-indicators"></div>
+        </div>
+    </section>
+
+    <!-- Section 4: Personal Projects -->
+    <section id="section-3" class="section showcase-section">
+        <div class="container">
+            <h2 class="section-title">Personal Projects (for your curiousity!)</h2>
+            <div class="slider-container">
+                <div class="slider-content" id="design-slider">
+                    ```
+                    <!-- Design slides will be inserted here by JavaScript -->
+                </div>
+            </div>
+            <div class="slider-indicators" id="design-indicators"></div>
+        </div>
+    </section>
+
+    <!-- Section 5: Before You Leave -->
+    <section id="section-4" class="section drink-section">
+        <div class="container">
+            <h2 class="section-title">Before You Leave...</h2>
+            <div class="drink-container">
+                <p class="drink-prompt">How are you feeling today? Let me mix you a unique drink!</p>
+                <div class="drink-buttons-container">
+                    <button class="emotion-btn" data-feeling="happy">Happy</button>
+                    <button class="emotion-btn" data-feeling="sad">Sad</button>
+                    <button class="emotion-btn" data-feeling="stressed">Stressed</button>
+                    <button class="emotion-btn" data-feeling="creative">Creative</button>
+                </div>
+                <div id="brew-progress-container" class="brew-progress-container hidden">
+                    <p class="brew-progress-text">Brewing emotions...</p>
+                    <div class="brew-progress-bar">
+                        <div id="brew-progress-fill" class="brew-progress-fill"></div>
+                    </div>
+                </div>
+                <div id="drink-result" class="drink-result hidden">
+                    <div class="drink-image-container">
+                        <img id="drink-image" src="" alt="Your unique drink" class="drink-image" />
+                    </div>
+                    <div class="drink-details">
+                        <h3 id="drink-name" class="drink-name"></h3>
+                        <div id="drink-ingredients" class="drink-ingredients"></div>
+                        <p id="drink-description" class="drink-description"></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <script src="vortex.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+image file: ngemrlogo.jpg
+image file: ngemr2.jpg
+image file: ngemr3.jpg
+
+title: NGEMR (Next Generation Electronic Medical Record) 
+
+
+Description:
+Singapore's nationwide $1.5B project to unify patient records across public healthcare clusters.
+Large scale project supporting over Singapore's 6+ million population. 
+Integration with other 3rd party systems eg. NBS, NHIPS, Imaging softwares.
+Supported Implementation and operational rollout, Assisted in system configuration, testing, validation, user support, 3rd party integrations, AI related system reviews and workflow improvisations
+
+---
+
+image file: healthapp.jpg
+
+title: NHG Health (Mobile App)
+
+Description: 
+Mobile app brought to you by NHG Health as a digital tool providing various services, educational materials and clinical programmes to support a healthier lifestyle.
+Supported end-to-end RFP process, prototyping of UI/UX interfaces and functions, API Integration, requirements gathering, project management and coordination of multiple stakeholders
+
+---
+
+image file: page3html.png
+
+title: Gimmevid
+
+
+

@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cosmic Vortex Generator",
+  "description": "A high-performance, interactive 3D generative art piece powered by Three.js and React Three Fiber. Simulates a chaotic interstellar vortex with millions of calculated particle interactions, featuring a TouchDesigner-inspired aesthetic.",
+  "requestFramePermissions": []
+}

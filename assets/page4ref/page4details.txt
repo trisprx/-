@@ -1,0 +1,45 @@
+image file: page3midiplay.png
+
+title: MIDI to Autoplay
+Project year: 2025
+
+Description: An application that reads MIDI files and automatically triggers specific keyboard keys to match the notes and rhythm. Plays 48–83 MIDI notes, converts sharps/flats to naturals, implements custom logic to fit keys within 3-octave range. Includes customizable key bindings and wait time, displays pressed key, and counts in-tune vs out-of-tune notes. Created to autoplay music in application. 
+
+---
+
+image file: page4marvelous1.png
+image file: page4marvelous2.png
+
+title: CLO3D patterns
+Project year: 2020
+
+Description: Clothing pattern designs in CLO3D / Marvelous Designer. Rendered in both native application or Blender for more complex scene renders.
+
+---
+
+image file: page4sd2.jpg
+
+title: AI ImageGen models
+Project year: 2022
+
+Description: Trained AI Image generation model (Stable diffusion). Published on multiple image generation model sharing platforms with more than 30,000 runs. Aimed for a 2.5D style with both the details of real-scenes but also drawing like.
+
+---
+
+image file: combi.jpg
+
+title: Other small projects
+Project year: 2025
+
+
+Description: 
+Other misc projects sample:
+HTML to MP4 format converter (headless)
+Pinkbook (Database recording and Image recognition, pyautogui automation)
+MIDI editor (MIDI editor interface - Tablet/Web)
+Jianpu (AI Image recognition with Gemini Flash)
+
+
+
+
+
