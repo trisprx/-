@@ -16,6 +16,12 @@ const CONFIG = {
 
     designProjects: [
         {
+            title: 'Pinkbook',
+            year: 2026,
+            images: ['assets/page4ref/page4pinkbook.jpg'],
+            description: 'An album import / catalogue application built on SQL database and PIL.\nMultilanguage support in Chinese, English, Japanese.\nIncludes automated steps to capture screen and retrieve code using image recognition OpenCV, pyautogui.\nSolves the problem of managing, cataloguing, and sharing screenshots by combining a rich image gallery with automation.'
+        },
+        {
             title: 'MIDI to Autoplay',
             year: 2025,
             images: ['assets/page4ref/page3midiplay.jpg'],
@@ -37,7 +43,7 @@ const CONFIG = {
             title: 'Other small projects',
             year: 2025,
             images: ['assets/page4ref/combi.jpg'],
-            description: 'Other misc projects sample:\n\nHTML to MP4 format converter (headless)\nPinkbook (Database recording and Image recognition, pyautogui automation)\nMIDI editor (MIDI editor interface - Tablet/Web)\nJianpu (AI Image recognition with Gemini Flash)'
+            description: 'Other misc projects sample:\n\nHTML to MP4 format converter (headless)\nPinkbook gallery click in details (placeholder!)\nMIDI editor (MIDI editor interface - Tablet/Web)\nJianpu (AI Image recognition with Gemini Flash)'
         }
     ],
 
