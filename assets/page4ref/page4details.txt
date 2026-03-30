@@ -1,3 +1,16 @@
+image file: page4pinkbook.png
+
+title: Pinkbook
+Project year: 2026
+
+Description: An album import / catalogue application built on SQL database and PIL.
+Multilanguage support in Chinese, English, Japanese.
+Includes automated steps to capture screen and retrieve code using image recognition OpenCV, pyautogui
+Solves the problem of managing, cataloguing, and sharing screenshots by combining a rich image gallery with automation.
+
+---
+
+
 image file: page3midiplay.png
 
 title: MIDI to Autoplay
@@ -35,7 +48,7 @@ Project year: 2025
 Description: 
 Other misc projects sample:
 HTML to MP4 format converter (headless)
-Pinkbook (Database recording and Image recognition, pyautogui automation)
+Pinkbook gallery click in details (placeholder!)
 MIDI editor (MIDI editor interface - Tablet/Web)
 Jianpu (AI Image recognition with Gemini Flash)
 
